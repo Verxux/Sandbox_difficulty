@@ -1,0 +1,100 @@
+[
+	{
+		"name": "Infinite gold",
+		"gold": 999999,
+		"cost": 99999999999,
+		"hurryCostModifier": 99999999999,
+		"maintenance": 999
+	},
+	{
+		"name": "Cultural increase",
+		"gold": 999,
+		"culture": 100,
+		"cost": 99999999999,
+		"hurryCostModifier": 99999999999,
+		"maintenance": 999
+	},
+	{
+		"name": "Faith increase",
+		"gold": 999,
+		"faith": 250,
+		"cost": 99999999999,
+		"hurryCostModifier": 99999999999,
+		"maintenance": 999,
+		"uniques": ["Hidden when religion is disabled"]
+	},
+	{
+		"name": "Increase research speed",
+		"gold": 999,
+		"science": 100,
+		"cost": 99999999999,
+		"hurryCostModifier": 99999999999,
+		"maintenance": 999
+	},
+	{
+		"name": "Food increase",
+		"gold": 999,
+		"food": 450,
+		"cost": 99999999999,
+		"hurryCostModifier": 99999999999,
+		"maintenance": 999
+	},
+	{
+		"name": "New unit XP increase",
+		"gold": 999,
+		"cost": 99999999999,
+		"hurryCostModifier": 99999999999,
+		"maintenance": 999,
+		"uniques": ["New [Military] units start with [9999] Experience [in this city]"]
+	},
+	{
+		"name": "Increased city defense",
+		"gold": 999,
+		"cityStrength": 100,
+		"cityHealth": 1000,
+		"cost": 99999999999,
+		"hurryCostModifier": 99999999999,
+		"maintenance": 999
+	},
+	{
+		"name": "Increased city production",
+		"gold": 999,
+		"production": 500,
+		"cost": 99999999999,
+		"hurryCostModifier": 99999999999,
+		"maintenance": 999
+	},
+	{
+		"name": "Scientist point",
+		"gold": 999,
+		"greatPersonPoints": {"Great Scientist": 200},
+		"cost": 99999999999,
+		"hurryCostModifier": 99999999999,
+		"maintenance": 999,
+	},
+	{
+		"name": "Engineer point",
+		"gold": 999,
+		"greatPersonPoints": {"Great Engineer": 200},
+		"cost": 99999999999,
+		"hurryCostModifier": 99999999999,
+		"maintenance": 999,
+	},
+	{
+		"name": "Artist point",
+		"gold": 999,
+		"greatPersonPoints": {"Great Artist": 200},
+		"cost": 99999999999,
+		"hurryCostModifier": 99999999999,
+		"maintenance": 999,
+	},
+	{
+		"name": "Merchant point",
+		"gold": 999,
+		"greatPersonPoints": {"Great Merchant": 300},
+		"cost": 99999999999,
+		"hurryCostModifier": 99999999999,
+		"maintenance": 999,
+	}
+]
+
