@@ -89,4 +89,34 @@
 		"turnBarbariansCanEnterPlayerTiles": 0,
 		"clearBarbarianCampReward": 25
 	}
+	{
+		"name": "Eternal glory",
+		"baseHappiness": 30,
+		"extraHappinessPerLuxury": 3,
+		"researchCostModifier": 0.5,
+		"unitCostModifier": 0.25,
+		"unitSupplyBase": 15,
+		"unitSupplyPerCity": 6,
+		"buildingCostModifier": 0.5,
+		"policyCostModifier": 0.25,
+		"unhappinessModifier": 0.4,
+		"barbarianBonus": 1,
+		"barbarianSpawnDelay": 8,
+		"playerBonusStartingUnits": ["Settler", "Worker", "Scout", "Era Starting Unit", "Era Starting Unit", "Era Starting Unit", "Worker", "Worker"]
+		"playerFreeTechs": ["Pottery","Animal Husbandry","Mining","The Wheel","Archery","Sailing","Trapping","Writing"]
+		"aiCityGrowthModifier": 1.25, 
+		"aiUnitCostModifier": 1, 
+		"aiBuildingCostModifier": 1,
+		"aiWonderCostModifier": 1,
+		"aiBuildingMaintenanceModifier": 1,
+		"aiUnitMaintenanceModifier": 1,
+		"aiUnitSupplyModifier": 0,
+		"aiFreeTechs": [],
+		"aiMajorCivBonusStartingUnits": [],
+		"aiCityStateBonusStartingUnits": [],
+		"aiUnhappinessModifier": 1,
+		"aisExchangeTechs": true,
+		"turnBarbariansCanEnterPlayerTiles": 10000,
+		"clearBarbarianCampReward": 50
+	},
 ]
